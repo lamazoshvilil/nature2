@@ -1,0 +1,31 @@
+.background {
+     width: 100%;
+     height: 100%;
+     position: relative;
+}
+.sunimage {
+     position: absolute;
+     width: 300px;
+     left: 90px;
+     top: 50px;
+}
+.cow {
+     position: absolute;
+
+     width: 300px;
+     bottom: 0px;
+     right: 0px;
+     
+}
+.conteiner {
+     width: 100%;
+}
+.smol {
+     width: 100%;
+     height: 100%;
+     bottom: 0px;
+}
+body, html {
+     width: 100%;
+     height: 100%;
+}
